@@ -7,6 +7,10 @@ which loan parameters were used by the bank.
 note: Results.py defines the Class Result which is used to store the results of the calculations and
 the methods to calculate the loan parameters.
 
+numpy:
+np.arange(Nmin, Nmax, 0.001)
+can be used for finer granularity.
+
 ## Usage
 The script can be run from the command line with the following command:
 ```
